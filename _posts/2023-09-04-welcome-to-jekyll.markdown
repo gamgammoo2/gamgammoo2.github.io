@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "안녕하세요! 신선한 개발자 정희연입니다."
 date:   2023-09-04 20:45:34 +0900
 categories: jekyll update
 ---
